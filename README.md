@@ -1,7 +1,7 @@
 ## ¿Cómo abrir este proyecto?
-- Clonar este repositorio en un ambiente local
-- Instalar las dependencias con el comando npm install
-- Ejecutar el comando npm run dev, el cual inicia el servidor de desarrollo y la fakeapi de json-server
+- Clonar este repositorio en un ambiente local con el comando "git clone https://github.com/JuanPabloArias803/todoterreno-plus.git"
+- Instalar las dependencias con el comando "npm install"
+- Ejecutar el comando "npm run dev", el cual inicia el servidor de desarrollo y la fakeapi de json-server
 - Abrir el link http://localhost:3000 en el navegador para interactuar con el proyecto.
 
 ## Tecnologías utilizadas
