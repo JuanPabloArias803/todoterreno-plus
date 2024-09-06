@@ -1,0 +1,278 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "identification": "800900800-2",
+      "name": "Bicicletas el Condor S.A.S",
+      "email": "facturacion@condor.com",
+      "phoneEnterprise": "4115165",
+      "pageWeb": "www.bicicondor.com",
+      "idCity": "2",
+      "address": "Calle 34 nro 78a-22",
+      "twitter": "@twitter.x",
+      "linkedin": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    {
+      "id": "2",
+      "identification": "890906877",
+      "name": "Caribe de Transportes S.A.S. - Caritrans",
+      "email": "carl@caribe.com",
+      "phoneEnterprise": "96986873",
+      "pageWeb": "",
+      "idCity": "1",
+      "address": "6047881223",
+      "twitter": "",
+      "linkedin": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    {
+      "id": "3",
+      "identification": "9003908351",
+      "name": "Colmediks S A S",
+      "email": "",
+      "phoneEnterprise": "96986873",
+      "pageWeb": "",
+      "idCity": "1",
+      "address": "CARRERA 29 C 10 C 125 OF 1001",
+      "twitter": "",
+      "linkedin": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    {
+      "id": "4",
+      "identification": "4534534",
+      "name": "Cristian Henao",
+      "email": "henaovillac@gmail.com",
+      "phoneEnterprise": "3008345394",
+      "pageWeb": "",
+      "idCity": "6",
+      "address": "CARRERA 29 C 10 C 125 OF 1001",
+      "twitter": "",
+      "linkedin": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    {
+      "id": "5",
+      "identification": "901036175-4",
+      "name": "EMPRESA HA ASOCIADOS",
+      "email": "ha@agustin.com",
+      "phoneEnterprise": "64987152",
+      "pageWeb": "www.haasociados.com",
+      "idCity": "2",
+      "address": "calle real 38 a 33",
+      "twitter": "",
+      "linkedin": "",
+      "instagram": "",
+      "facebook": "haFaes"
+    },
+    {
+      "id": "6",
+      "identification": "901599264-7",
+      "name": "INVERSIONES JOHN LIZ",
+      "email": "",
+      "phoneEnterprise": "64987152",
+      "pageWeb": "www.INVERSIONES-JOHN-LIZ.com",
+      "idCity": "1",
+      "address": "CR 72 44 42",
+      "twitter": "@INVERSIONESJL",
+      "linkedin": "INVERSIONES JOHN LIZ",
+      "instagram": "@INVERSIONESJL",
+      "facebook": "INVERSIONES JOHN LIZ"
+    },
+    {
+      "id": "7",
+      "identification": "901690590-1",
+      "name": "INVERSIONES SUPRA S.A.S./SUPRAMOTRIZ",
+      "email": "supra@supra.com",
+      "phoneEnterprise": "77777777",
+      "pageWeb": "www.SUPRAMOTRIZ.com",
+      "idCity": "1",
+      "address": "CL 4 28 58 AP 505",
+      "twitter": "@SUPRAMOTRIZ",
+      "linkedin": "SUPRAMOTRIZ",
+      "instagram": "@SUPRAMOTRIZ",
+      "facebook": "SUPRAMOTRIZ"
+    },
+    {
+      "id": "8",
+      "identification": "900903597-5",
+      "name": "LA FERRETERIA HERRAMIENTAS Y SUMINISTROS",
+      "email": "",
+      "phoneEnterprise": "",
+      "pageWeb": "www.LaFerreteriaHS.com",
+      "idCity": "1",
+      "address": "CR 31 11 75",
+      "twitter": "@LaFerreteriaHS",
+      "linkedin": "LA FERRETERIA HERRAMIENTAS Y SUMINISTROS",
+      "instagram": "@LaFerreteriaHS",
+      "facebook": "LA FERRETERIA HERRAMIENTAS Y SUMINISTROS"
+    },
+    {
+      "id": "9",
+      "identification": "830141149-4",
+      "name": "NAOS COLOMBIA",
+      "email": "",
+      "phoneEnterprise": "",
+      "pageWeb": "www.NAOS-COL.com",
+      "idCity": "1",
+      "address": "CR 13 96 67 OF 609",
+      "twitter": "@NAOS_CO",
+      "linkedin": "NAOS COLOMBIA",
+      "instagram": "@NAOS_CO",
+      "facebook": "NAOS COLOMBIA"
+    },
+    {
+      "id": "10",
+      "identification": "800132302",
+      "name": "OFIMA",
+      "email": "",
+      "phoneEnterprise": "",
+      "pageWeb": "https://www.ofima.com/",
+      "idCity": "1",
+      "address": "Torre Empresarial Los Molinos, Cl. 30A #82A - 26 Piso 19",
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/company/2419250/admin/feed/posts/",
+      "instagram": "https://www.instagram.com/ofima_sas/",
+      "facebook": "https://www.facebook.com/OfimaSAS"
+    },
+    {
+      "id": "11",
+      "identification": "900037501-3",
+      "name": "PETROINGENIERIA REGIONAL ANTIOQUIA S.A.S./PETRORAZA S.A.S.",
+      "email": "",
+      "phoneEnterprise": "",
+      "pageWeb": "www.PETRORAZA.com",
+      "idCity": "1",
+      "address": "CL 80 SUR 47 D 16",
+      "twitter": "@PETRORAZA S.A.S.",
+      "linkedin": "PETROINGENIERIA REGIONAL ANTIOQUIA S.A.S.",
+      "instagram": "@PETRORAZA S.A.S",
+      "facebook": "PETROINGENIERIA REGIONAL ANTIOQUIA S.A.S."
+    },
+    {
+      "id": "12",
+      "identification": "890942987",
+      "name": "ROTOPLAST S.A.S.",
+      "email": "",
+      "phoneEnterprise": "",
+      "pageWeb": "",
+      "idCity": "1",
+      "address": "AUT MEDELLIN-BOGOTA KM 22 UI LA BRIZUELA LOTE 2 B - GUARNE ANTIOQUIA",
+      "twitter": "",
+      "linkedin": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    {
+      "id": "13",
+      "identification": "830084038-0",
+      "name": "SOLUTIONS GROUP S A S.",
+      "email": "gerenciazea@une.net.co",
+      "phoneEnterprise": "313654974",
+      "pageWeb": "https://www.zoho.com.EDU",
+      "idCity": "1",
+      "address": "",
+      "twitter": "",
+      "linkedin": "",
+      "instagram": "",
+      "facebook": ""
+    },
+    {
+      "id": "14",
+      "identification": "10008952-0",
+      "name": "Juan Arias",
+      "email": "juanarias@une.net.co",
+      "phoneEnterprise": "3136549999",
+      "pageWeb": "",
+      "idCity": "4",
+      "address": "",
+      "twitter": "",
+      "linkedin": "",
+      "instagram": "",
+      "facebook": ""
+    }
+  ],
+  "countries": [
+    {
+      "id": "1",
+      "name": "Colombia"
+    },
+    {
+      "id": "2",
+      "name": "México"
+    },
+    {
+      "id": "3",
+      "name": "USA"
+    }
+  ],
+  "states": [
+    {
+      "id": "1",
+      "name": "Antioquia",
+      "countryId": "1"
+    },
+    {
+      "id": "2",
+      "name": "Bogota DC",
+      "countryId": "1"
+    },
+    {
+      "id": "3",
+      "name": "CDMX",
+      "countryId": "2"
+    },
+    {
+      "id": "4",
+      "name": "Jalisco",
+      "countryId": "2"
+    },
+    {
+      "id": "5",
+      "name": "California",
+      "countryId": "3"
+    },
+    {
+      "id": "6",
+      "name": "Florida",
+      "countryId": "3"
+    }
+  ],
+  "cities": [
+    {
+      "id": "1",
+      "name": "Medellín",
+      "stateId": "1"
+    },
+    {
+      "id": "2",
+      "name": "Bogota",
+      "stateId": "2"
+    },
+    {
+      "id": "3",
+      "name": "Ciudad de México",
+      "stateId": "3"
+    },
+    {
+      "id": "4",
+      "name": "Guadalajara",
+      "stateId": "4"
+    },
+    {
+      "id": "5",
+      "name": "Sacramento",
+      "stateId": "5"
+    },
+    {
+      "id": "6",
+      "name": "Miami",
+      "stateId": "6"
+    }
+  ]
+}
